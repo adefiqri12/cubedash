@@ -6,5 +6,6 @@ I uploaded it to google drive because there is a file upload limit from github w
 </br>
 </br>step 2:
 </br>Import library sound.
-</br>1
-
+</br>1 ![] (https://raw.githubusercontent.com/adefiqri12/cubedash/mainhow_to_import_library_sound_1.png)
+</br>
+</br>2 ![] (https://raw.githubusercontent.com/adefiqri12/cubedash/mainhow_to_import_library_sound_2.png)
