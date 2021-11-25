@@ -10,4 +10,4 @@ I uploaded it to google drive because there is a file upload limit from github w
 ![](https://raw.githubusercontent.com/adefiqri12/cubedash/main/how_to_import_library_sound_1.png)
 </br>
 ### </br>2 
-![](https://raw.githubusercontent.com/adefiqri12/cubedash/main/how_to_import_library_sound_2.png)
+![](https://raw.githubusercontent.com/adefiqri12/cubedash/main/how_to_import_library_sound_2.PNG)
